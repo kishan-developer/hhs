@@ -1,0 +1,29 @@
+
+* {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+}
+
+body {
+      background-color: black;
+      color: tomato;
+
+}
+
+.container {
+      width: 100vw;
+      height: 70px;
+      font-size:2rem;
+      border-bottom: 1.2px solid tomato;
+      text-align: center;
+      align-items: center;
+      padding-top: 10px;
+    
+}
+
+
+a {
+      color: white;
+      text-decoration: none;
+}
